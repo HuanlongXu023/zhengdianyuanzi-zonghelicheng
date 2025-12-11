@@ -1,0 +1,17 @@
+..\..\output\qma6100p.o: ..\..\Drivers\BSP\QMA6100P\qma6100p.c
+..\..\output\qma6100p.o: ..\..\Drivers\./BSP/QMA6100P/qma6100p.h
+..\..\output\qma6100p.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\qma6100p.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+..\..\output\qma6100p.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+..\..\output\qma6100p.o: ..\..\Drivers\CMSIS\Include\core_cm4.h
+..\..\output\qma6100p.o: D:\download_any\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\qma6100p.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\qma6100p.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\qma6100p.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\qma6100p.o: ..\..\Drivers\CMSIS\Include\mpu_armv7.h
+..\..\output\qma6100p.o: ..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+..\..\output\qma6100p.o: ..\..\Drivers\./SYSTEM/delay/delay.h
+..\..\output\qma6100p.o: D:\download_any\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\qma6100p.o: D:\download_any\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\qma6100p.o: D:\download_any\keil5\ARM\ARMCC\Bin\..\include\math.h
+..\..\output\qma6100p.o: ..\..\Drivers\./BSP/IIC/myiic.h
